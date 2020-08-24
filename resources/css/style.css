@@ -10,8 +10,28 @@ h1 {
     color: white;
 }
 
+h2 {
+    font-size: 42px;
+    font-family: Verdana;
+    font-weight: 300;
+    color: white;
+}
+
+h3 {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    font-weight: normal;
+}
+
 .link {
     font-size: 16px;
     font-family: Verdana;
     color: aquamarine;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+    font-family: Verdana;
 }
